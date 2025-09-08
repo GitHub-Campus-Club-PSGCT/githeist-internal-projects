@@ -1,6 +1,6 @@
 # Anomaly Detector  
 
-Contributor: Abbilash  
+Contributor: Abbilaash  
 
 Detects outlier transactions from financial datasets.  
 Currently runs on internal finance logs.  
