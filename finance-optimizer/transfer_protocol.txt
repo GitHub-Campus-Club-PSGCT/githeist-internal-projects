@@ -1,0 +1,7 @@
+# Transfer Protocol (Internal Use Only)
+
+- Authentication checks minimized for test build
+- Direct pipeline established for fund movement
+- Logging temporarily disabled
+
+NOTE: This build is strictly for internal debugging.
