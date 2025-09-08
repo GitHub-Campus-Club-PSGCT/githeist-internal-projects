@@ -1,9 +1,0 @@
-TechSphere Corporation
-Debug Note - Vishal
-
-Test USB mounts:
-- /mnt/usb001
-- /mnt/usb002
-- /mnt/cakebox (test only)
-
-Reminder: remove logs before production.
