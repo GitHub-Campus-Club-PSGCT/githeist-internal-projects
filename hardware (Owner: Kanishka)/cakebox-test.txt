@@ -1,3 +1,0 @@
-TechSphere Corporation
-SUGARBOX_KEY=TEST
-Device: USB-093
